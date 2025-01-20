@@ -3,7 +3,7 @@ package solved;
 import java.util.*;
 
 public class D2_12712_파리퇴치 {
-	private static Scanner sc = new Scanner(System.in);
+	final static Scanner sc = new Scanner(System.in);
 	public static void main (String[] args) {
 		int T = sc.nextInt();
 		for (int t= 1; t<= T; t++) {

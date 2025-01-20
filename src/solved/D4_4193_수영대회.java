@@ -1,4 +1,5 @@
 package solved;
+
 import java.util.*;
  
 public class D4_4193_수영대회 {

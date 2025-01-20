@@ -1,4 +1,5 @@
 package solved;
+
 import java.util.*;
 class D4_1868_지뢰찾기
 {

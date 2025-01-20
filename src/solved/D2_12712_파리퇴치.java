@@ -1,5 +1,6 @@
 package solved;
 
+
 import java.util.*;
 
 public class D2_12712_파리퇴치 {

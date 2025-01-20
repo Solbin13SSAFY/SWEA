@@ -1,4 +1,5 @@
 package solved;
+
 import java.util.*;
  
 public class D4_1486_선반 {

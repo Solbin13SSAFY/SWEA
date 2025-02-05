@@ -4,10 +4,13 @@ import java.util.Scanner;
 public class Solution_std {
 	final static Scanner sc = new Scanner(System.in);
     public static void main (String[] args) {
+    	long beforeTime = System.nanoTime();
         int T = sc.nextInt();
         for (int t=1;t<=T;t++) {
             System.out.println("#" + t + " " + run());
         }
+        long afterTime = System.nanoTime();
+        System.out.println("Diff :"+(afterTime-beforeTime)/1000000);
     }
     public static String run() {
     	int k = sc.nextInt();
